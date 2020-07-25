@@ -27,3 +27,21 @@ Date of birth: <PyQt5.QtWidgets.QLineEdit object at 0x035A2C88>
 Nationality: <PyQt5.QtWidgets.QLineEdit object at 0x035A2CD0>
 Program: <PyQt5.QtWidgets.QLineEdit object at 0x035A2D18>
         
+ID: 15
+Name: Test123
+Age: 34
+Gender: Male
+Identity: 5435
+Date of birth: 54354
+Nationality: Malaysian
+Program: Computer Science
+        
+ID: 16
+Name: a
+Age: 12
+Gender: Male
+Identity: 123
+Date of birth: 2000-01-01
+Nationality: Malaysian
+Program: Computer Science
+        

@@ -1,10 +1,10 @@
 # This module checks if all the inputs are valid.
 
+import re
+
 def check_input(details: tuple, status_bar):
     for i in details:
-        if hasattr(i, "currentText"):
-            pass
-        elif i.text() == "":
+        if i.text() == "":
             status_bar.showMessage("You have empty fields.")
             i.setStyleSheet("border: 1px solid red;")
             return False
