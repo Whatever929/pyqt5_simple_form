@@ -1,0 +1,29 @@
+
+
+ID: 13
+Name: <PyQt5.QtWidgets.QLineEdit object at 0x03CF2AD8>
+Age: <PyQt5.QtWidgets.QLineEdit object at 0x03CF2B20>
+Gender: <PyQt5.QtWidgets.QLineEdit object at 0x03CF2B68>
+Identity: <PyQt5.QtWidgets.QLineEdit object at 0x03CF2BB0>
+Date of birth: <PyQt5.QtWidgets.QLineEdit object at 0x03CF2BF8>
+Nationality: <PyQt5.QtWidgets.QLineEdit object at 0x03CF2C40>
+Program: <PyQt5.QtWidgets.QLineEdit object at 0x03CF2C88>
+        
+ID: 13
+Name: <PyQt5.QtWidgets.QLineEdit object at 0x035A2B68>
+Age: <PyQt5.QtWidgets.QLineEdit object at 0x035A2BB0>
+Gender: <PyQt5.QtWidgets.QLineEdit object at 0x035A2BF8>
+Identity: <PyQt5.QtWidgets.QLineEdit object at 0x035A2C40>
+Date of birth: <PyQt5.QtWidgets.QLineEdit object at 0x035A2C88>
+Nationality: <PyQt5.QtWidgets.QLineEdit object at 0x035A2CD0>
+Program: <PyQt5.QtWidgets.QLineEdit object at 0x035A2D18>
+        
+ID: 14
+Name: <PyQt5.QtWidgets.QLineEdit object at 0x035A2B68>
+Age: <PyQt5.QtWidgets.QLineEdit object at 0x035A2BB0>
+Gender: <PyQt5.QtWidgets.QLineEdit object at 0x035A2BF8>
+Identity: <PyQt5.QtWidgets.QLineEdit object at 0x035A2C40>
+Date of birth: <PyQt5.QtWidgets.QLineEdit object at 0x035A2C88>
+Nationality: <PyQt5.QtWidgets.QLineEdit object at 0x035A2CD0>
+Program: <PyQt5.QtWidgets.QLineEdit object at 0x035A2D18>
+        
